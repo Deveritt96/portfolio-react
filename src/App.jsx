@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import About from './components/about';
-import Header from './components/Header';
+import Header from './components/header';
 import Footer from './components/footer';
 import ProjectBoxes from './components/projects';
 import Contact from './components/contact';
